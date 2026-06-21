@@ -1,2 +1,2 @@
 # ixkyu.github.io
-<p>Hello world</p>
+<h1>MM2 Trading Calculator</h1>
