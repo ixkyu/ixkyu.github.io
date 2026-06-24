@@ -1,2 +1,2 @@
-# ixkyu.github.io
-<h1>MM2 Trading Calculator</h1>
+# MM2 Trading Calculator
+<p>A simple MM2 trading calculator built in HTML/JS</p>
