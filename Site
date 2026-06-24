@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--UTF-8 encoding & scale for different devices-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- for google search -->
+        <meta title="MM2 Trade Calculator">
+        <meta name="description" content="Murder Mystery 2 calculator for trades">
+        <meta name="author" content="ixkyu">
+        <meta name="robots" content="index, follow, noarchive">
+
+        <meta 
+    </head>
+
+    <body>
+        <button type="button">+</button>
+    </body>
+
+</html>
